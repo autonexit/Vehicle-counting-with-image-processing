@@ -22,7 +22,7 @@ The vehicle detection and tracking system using YOLOv11 and the SORT algorithm c
 ---
 ## 🎥 Demo Video
 
-[▶ Watch Demo](assets/demo.mp4)
+[▶ Watch Demo](https://poweren.ir/wp-content/uploads/2026/02/Car_Detection.mp4)
 
 
 
