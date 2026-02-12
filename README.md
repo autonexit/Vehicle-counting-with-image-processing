@@ -5,7 +5,7 @@ The vehicle detection and tracking system using YOLOv11 and the SORT algorithm c
 
 <h1 align="center">Vehicle counting</h1>
 <a href="https://autonexit.com" target="_blank">
-    <img alt="Vehicle-counting" src="assets/banners/bg.png"/>
+    <img alt="Vehicle-counting" src="assets/bg.png"/>
 </a>
 
 # 🚗 Vehicle Detection & Tracking using YOLOv11 + SORT  
