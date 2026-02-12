@@ -19,6 +19,11 @@ The vehicle detection and tracking system using YOLOv11 and the SORT algorithm c
 **Phone / تلفن:** +989123874216 
 
 ---
+## 🎥 Demo Video
+
+[▶ Watch Demo](assets/demo.mp4)
+
+
 
 ## 📌 Overview | معرفی پروژه
 
