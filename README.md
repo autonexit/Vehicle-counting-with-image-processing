@@ -13,10 +13,10 @@ The vehicle detection and tracking system using YOLOv11 and the SORT algorithm c
 ---
 
 ## 👤 Author | نویسنده
-**Name / نام:** <YOUR NAME>  
-**Website / وب‌سایت:** https://<YOUR-WEBSITE>.com  
-**Email / ایمیل:** <YOUR-EMAIL>@<DOMAIN>.com  
-**Phone / تلفن:** +<COUNTRY-CODE><PHONE-NUMBER>  
+**Name / نام:** Siahtiri  
+**Website / وب‌سایت:** https://poweren.ir
+**Email / ایمیل:** siahtirim@gmail.com 
+**Phone / تلفن:** +989123874216 
 
 ---
 
